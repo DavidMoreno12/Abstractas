@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Abstractas</string>
+    <string name="lado">Dame el valor lado:</string>
+    <string name="Calcular">Calcular Area</string>
+    <string name="base">Dame el valor de la base:</string>
+    <string name="altura">Dame el valor de la Altura:</string>
+    <string name="siguiente">Calcular Area Triangulo</string>
+    <string name="regresar">Calcular Area de Cuadrado</string>
+</resources>
